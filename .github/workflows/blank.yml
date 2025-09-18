@@ -23,6 +23,5 @@ jobs:
     - name: Run Example Code.
       run: |
         cd Examples/CellsGoCPP        
-        go mod download
         go mod tidy
         go run main.go
