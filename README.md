@@ -7,7 +7,7 @@ Aspose.Cells for Go via C++ Library allows you to work with the built-in as well
 Aspose.Cells for Go via C++ Library  allows the developers to work with spreadsheet rows, columns, data, formulas, pivot tables, worksheets, tables, charts, and drawing objects from their own Go applications.
 
 <p align="center">
-  <a title="Download ZIP" href="https://github.com/aspose-cells/aspose-cells-go-cpp/archive/refs/heads/main.zip">
+  <a title="Download ZIP" href="https://github.com/aspose-cells/Aspose.Cells-for-Go-via-CPP/archive/refs/heads/main.zip">
     <img src="http://i.imgur.com/hwNhrGZ.png" />
   </a>
 </p>
